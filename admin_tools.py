@@ -81,9 +81,9 @@ class AdminToolsMod(loader.Module):
     strings = {
         "name": "Admin Tools",
         "not_pic": "<b>Это не картинка/стикер.</b>",
-        "wait": "<b>Ожижание...</b>",
+        "wait": "<b>Ожидание...</b>",
         "pic_so_small": "<b>Говно картинка, давай другую.</b>",
-        "pic_changed": "<b>Авв сменена.</b>",
+        "pic_changed": "<b>Ава сменена.</b>",
         "promote_none": "<b>Не закреплено.</b>",
         "who": "<b>Кто, что?</b>",
         "not_admin": "<b>Я не админ здесь.</b>",
