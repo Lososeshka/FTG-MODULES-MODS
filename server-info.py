@@ -27,7 +27,7 @@ class serverInfoMod(loader.Module):
     """Show server info"""
 
     strings = {
-        "name": "Сервер инфо",
+        "name": "Server-info",
         "loading": "<b>👾 Загружаю информацию о сервере...</b>",
         "servinfo": "<b><u>👾 Информация о сервере:</u>\n\n<u>🗄 Used resources:</u>\n    CPU: {} Cores {}%\n    RAM: {} / {}MB ({}%)\n\n<u>🧾 Dist info</u>\n    Kernel: {}\n    Arch: {}\n    OS: {}\n\n<u>📦 Python libs:</u>\n    Telethon: {}\n    Telethon-Mod: {}\n    Python-Git: {}\n    Python: {}\n    Pip: {}</b>",
     }
